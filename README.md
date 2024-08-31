@@ -12,8 +12,7 @@ Login - This api takes email and password for user login and give an token with 
 Logout - This api takes token and its type and destroy active user token.
 
 ## Technology
-Backend - php (Laravel)
-Database - MySql
+Php (Laravel) & MySql
 
 ## Authentication & Security
 Laravel Passport
